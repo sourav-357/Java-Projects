@@ -77,7 +77,7 @@ Each project has its **own sub-folder** with source code, database files (if any
 
 - **Name**: Sourav Kumar
 - **GitHub Profile**: [@sourav-kumar-357](https://github.com/sourav-kumar-357)
-- **LinkedIn**: [Sourav Kumar](https://linkedin.com/in/souravkumar1976)
+- **LinkedIn**: [Sourav Kumar](https://linkedin.com/in/souravkumar357)
 
 ---
 
